@@ -1,6 +1,6 @@
 # Atkurti dizainą dinaminiu būdu:
 
-## Susikurkite objektą "weather" su šiais indeksais:
+## Sukurkite objektą "weather" su šiais indeksais:
 
 status,
 degrees,
