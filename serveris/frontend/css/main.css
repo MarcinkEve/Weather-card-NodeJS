@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  padding: 0;
+  top: 0;
+  height: 100vh;
+  background-color: rgb(73, 191, 245);
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+.button-holder {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+}
+.get-weather {
+  background-color: rgb(247, 243, 241);
+  border-radius: 5px;
+  border: none;
+  padding: 0.5rem;
+}
+.get-weather:hover {
+  background-color: rgb(208, 210, 211);
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  transform: translate(50%, 10%);
+  background-color: #fff;
+  border-radius: 0 0 7px 7px;
+  font-family: "Poppins", sans-serif;
+}
+/* @media (min-width: 800px) {
+    .card {
+      
+      justify-content: center;
+      width: 30vw;
+  }
+} */
+.top {
+  border-bottom: 1px solid rgb(107, 105, 105);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+}
+.img {
+  padding: 1.5rem 0rem 0.5rem 0rem;
+}
+.degrees {
+  font-size: 70px;
+  font-weight: bold;
+  padding: 0rem;
+}
+.status {
+  font-size: 24px;
+  padding-bottom: 4rem;
+}
+.box-holder {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+}
+.box-holder:first-child {
+  border-right: 1px solid rgb(107, 105, 105);
+}
+.bottom,
+.bottom-boxes {
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 0rem;
+}
+.bottom-boxes {
+  padding: 0.5rem;
+}
+.icon {
+  width: 100%;
+  height: 90%;
+}
+.tex-info {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  padding: 0rem 0rem;
+  line-height: 18px;
+}
+.feeling,
+.humidity {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px;
+  padding-right: 1rem;
+}
+
+.add-info {
+  font-size: 12px;
+  margin: 0px;
+}
