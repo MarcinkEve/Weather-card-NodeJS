@@ -1,4 +1,4 @@
-# Atkurti dizaina dinaminiu budu:
+# Atkurti dizainą dinaminiu būdu:
 
 ## Susikurkite objektą "weeather" su šiais indeksais:
 
