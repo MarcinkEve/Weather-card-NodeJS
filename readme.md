@@ -24,7 +24,8 @@ Run file:
 
 - in current directory open new terminal and write in console
  
- > npm i -D dead-server
+ <!-- > npm i -D dead-server -->
+ > npm i
 
  > npm run dev
 
@@ -39,10 +40,11 @@ It runs on it's own server at `http://localhost:3001`
 
 - in current directory open new terminal and write in console
 
- > npm i express
+ <!-- > npm i express
 
  > npm i --save-dev nodemon
 
- > npm i cors
+ > npm i cors -->
+ > npm i
 
  > npm run start
