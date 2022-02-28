@@ -16,7 +16,7 @@ Humidity reikšmei skaičių nuo 50 iki 90.
 Visas reikšmes perduokite į frontend sekciją iš backend naudojantis fetch() funkcija.
 Priklausomai nuo statuso parinkite atitinkamą paveiksliuką.
  
- ![](frontend/img/MicrosoftTeams-image.png)
+ ![](serveris/frontend/img/MicrosoftTeams-image.png)
 
  # Install
 
